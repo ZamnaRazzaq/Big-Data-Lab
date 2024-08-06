@@ -1,0 +1,16 @@
+﻿Big Data, haven’t you heard this term before? I am sure you have. In the last 4 to 5 years, everyone is talking about Big Data. But do you really know what exactly is Big Data, how is it making an impact on our lives & why organizations are hunting for professionals with Big Data skills? In this Big Data Tutorial, I will give you a complete insight into Big Data. For further details, refer to the Big Data Course.
+Below are the topics which I will cover in this Big Data Tutorial:
+    • Story of Big Data
+    • Big Data Driving Factors
+    • What is Big Data?
+    • Big Data Characteristics
+    • Types of Big Data
+    • Examples of Big Data
+    • Applications of Big Data
+    • Challenges with Big Data
+
+Story of Big Data
+In ancient days, people used to travel from one village to another village on a horse driven cart, but as the time passed, villages became towns and people spread out. The distance to travel from one town to the other town also increased. So, it became a problem to travel between towns, along with the luggage. Out of the blue, one smart fella suggested, we should groom and feed a horse more, to solve this problem. When I look at this solution, it is not that bad, but do you think a horse can become an elephant? I don’t think so.  Another smart guy said, instead of 1 horse pulling the cart, let us have 4 horses to pull the same cart. What do you guys think of this solution? I think it is a fantastic solution. Now, people can travel large distances in less time and even carry more luggage.
+The same concept applies on Big Data. Big Data says, till today, we were okay with storing the data into our servers because the volume of the data was pretty limited, and the amount of time to process this data was also okay.  But now in this current technological world, the data is growing too fast and people are relying on the data a lot of times. Also the speed at which the data is growing, it is becoming impossible to store the data into any server.
+Through this blog on Big Data Tutorial, let us explore the sources of Big Data, which the traditional systems are failing to store and process. You can even check out the details of Big Data with the Data Engineer Course.
+
